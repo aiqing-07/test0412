@@ -1,0 +1,5 @@
+com\myfdc\dao\StudentDao.class
+com\myfdc\service\StudentService.class
+com\myfdc\service\impl\StudentServiceImpl.class
+com\myfdc\controller\StudentController.class
+com\myfdc\domain\Student.class
