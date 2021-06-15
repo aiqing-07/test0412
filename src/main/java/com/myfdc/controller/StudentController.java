@@ -19,6 +19,7 @@ public class StudentController {
     @ResponseBody
     @RequestMapping("/listStudent.do")
     public List<Student> queryStudnet(){
+    	// 仅测试GitHub使用
         List<Student> students = studentService.selectAllStudents();
         return students;
     }
